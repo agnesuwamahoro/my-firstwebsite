@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: blue;
+
+    
+}
+
+img{
+    align-items:center;
+    padding-left:100px;
+    width: 500px;
+    height: 400px;
+}
+
+h2{
+    text-align: center;
+    color:blue;
+}
+h3,p{
+    text-align:center;
+}
+a{
+text-decoration:aqua;
+}
