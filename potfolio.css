@@ -5,6 +5,15 @@ h1{
 
     
 }
+.third a{
+    display:inline;
+    font-size:25px;
+    margin: 0 5px;
+    text-align: center;
+ }
+ .third{
+     text-align:center;
+ }
 
 img{
     align-items:center;
@@ -30,4 +39,7 @@ h3,p{
     display:block;
     padding: 20px;
     
+}
+a:link{
+    text-align: center;
 }
