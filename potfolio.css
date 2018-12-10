@@ -1,6 +1,7 @@
 h1{
     text-align: center;
-    color: blue;
+    color:blue;
+   
 
     
 }
@@ -14,11 +15,19 @@ img{
 
 h2{
     text-align: center;
-    color:blue;
+    color:saddlebrown
+   
 }
 h3,p{
     text-align:center;
+    
 }
-a{
-text-decoration:aqua;
+.first{
+    display: flex;
+   
+}
+.have{
+    display:block;
+    padding: 20px;
+    
 }
