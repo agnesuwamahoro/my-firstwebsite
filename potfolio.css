@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    color:blue;
+    color :saddlebrown;
    
 
     
@@ -40,6 +40,21 @@ h3,p{
     padding: 20px;
     
 }
-a:link{
+
+nav {
     text-align: center;
+
+}
+    
+a{
+    text-decoration: none;
+    padding:10px;
+    font-size:20px;
+}
+
+body{
+    background-color:lightslategray;
+}
+.young{
+    display: flex;
 }
